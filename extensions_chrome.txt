@@ -1,0 +1,25 @@
+ Suspicious Extensions Found
+1. **Chameleon** – Flagged by Chrome as violating Chrome Web Store policy.
+2. **Urban VPN Proxy** – Free VPN; potential privacy risks and traffic logging.
+3. **Video Downloader PLUS** – History of malicious updates in similar extensions.
+4. **Turbo Downloader for Instagram** – May request excessive permissions.
+5. **WebCRX** – Allows installing CRX files bypassing Chrome Web Store verification.
+
+ Inactive Extensions
+- **Authenticator** – Inactive (service worker not running).
+- **Turbo Downloader for Instagram** – Currently inactive but still installed.
+
+ Research: How Malicious Extensions Can Harm Users
+Malicious browser extensions can:
+- Steal login credentials and cookies.
+- Inject malicious scripts into web pages.
+- Redirect traffic to phishing or adware sites.
+- Log browsing history and sell it to third parties.
+- Install other malware without user consent.
+
+ Steps Taken
+1. Opened `chrome://extensions/` to view installed extensions.
+2. Reviewed permissions, activity status, and Chrome's safety warnings.
+3. Identified suspicious, policy-violating, and unused extensions.
+4. Removed extensions that posed security or privacy risks.
+5. Restarted Chrome to apply changes and clear active service workers.
